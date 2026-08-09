@@ -18,6 +18,7 @@ import {
   FolderGit2,
   Cpu,
   Terminal,
+  FileText
 } from "lucide-react";
 
 const fadeIn = {
@@ -152,6 +153,15 @@ export default function Portfolio() {
                     className="w-5 h-5 object-contain"
                 />
                 <span>CodeChef</span>
+              </a>
+              <a
+                href="/sai_pranav_reddy_resume.pdf"
+                target="_blank"
+                rel="noreferrer"
+                className="flex items-center gap-2 px-4 py-2 rounded-lg bg-zinc-800 hover:bg-zinc-700 text-white font-medium transition-all shadow-lg border border-zinc-700"
+              >
+                <FileText className="w-4 h-4 text-blue-400" />
+                <span>Resume</span>
               </a>
             </div>
           </div>

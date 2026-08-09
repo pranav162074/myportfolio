@@ -1,6 +1,4 @@
-{"timestamp":"00:00:25.558","source":"Server","level":"LOG","message":""}
-{"timestamp":"00:00:28.625","source":"Server","level":"LOG","message":"○ Compiling / ..."}
-{"timestamp":"00:00:35.426","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
-{"timestamp":"00:00:35.531","source":"Browser","level":"WARN","message":"Image with src \"/pranav_pic.jpeg\" has \"fill\" but is missing \"sizes\" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes"}
-{"timestamp":"00:00:35.551","source":"Server","level":"WARN","message":"[browser] \"\\u001b[33mImage with src \\\"/pranav_pic.jpeg\\\" has \\\"fill\\\" but is missing \\\"sizes\\\" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes\\u001b[39m\""}
-{"timestamp":"00:03:36.629","source":"Server","level":"LOG","message":"✓ Compiled in 665ms"}
+{"timestamp":"00:00:02.982","source":"Server","level":"LOG","message":""}
+{"timestamp":"00:00:17.268","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:00:17.372","source":"Browser","level":"WARN","message":"Image with src \"/pranav_pic.jpeg\" has \"fill\" but is missing \"sizes\" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes"}
+{"timestamp":"00:00:17.460","source":"Server","level":"WARN","message":"[browser] \"\\u001b[33mImage with src \\\"/pranav_pic.jpeg\\\" has \\\"fill\\\" but is missing \\\"sizes\\\" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes\\u001b[39m\""}
